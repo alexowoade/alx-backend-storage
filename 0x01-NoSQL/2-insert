@@ -1,5 +1,2 @@
-// This script inserts a document in the collection school
-// The document has one attribute name with value "Holberton school"
-// The database name is passed as an option of mongo command
-
-db.school.insert({name: "Holberton school"});
+// script that inserts a document in the collection school
+db.school.insert({name: "Holberton school"})
