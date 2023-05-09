@@ -1,11 +1,3 @@
-
-Breadcrumbsalx-backend-storage/0x01-NoSQL
-/102-log_stats.py
-File metadata and controls
-
-Code
-
-Blame
 #!/usr/bin/env python3
 """ MongoDB Operations with Python using pymongo """
 from pymongo import MongoClient
